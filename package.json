@@ -1,7 +1,7 @@
 {
-  "name": "khan-backend-test-1",
+  "name": "boiler-plate",
   "version": "1.0.0",
-  "description": "Test for Array.com by Muhammad Afaq Khan",
+  "description": "Boiler plate by Muhammad Afaq Khan",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
